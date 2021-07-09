@@ -1,11 +1,9 @@
 {
   "plugins": [
-    [
-      "babel-plugin-styled-components",
-      {
-        "ssr": true
-      }
-    ]
+    ["babel-plugin-styled-components", { "ssr": true }],
+    "babel-plugin-macros"
   ],
-  "presets": ["next/babel", "@babel/preset-typescript"]
+  "presets": [
+    ["next/babel", { "preset-react": { "runtime": "automatic" } }],
+    "@babel/preset-typescript"]
 }
