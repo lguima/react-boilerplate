@@ -13,7 +13,7 @@ A boilerplate to not start your next [React](https://reactjs.org/) project from 
 - [Twin](https://github.com/ben-rogerson/twin.macro)
 - [Material UI](https://material-ui.com/)
 - [Jest](https://jestjs.io/)
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+- [React Testing Library](https://testing-library.com/react/)
 - [Storybook](https://storybook.js.org/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
