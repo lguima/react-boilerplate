@@ -17,7 +17,7 @@ A boilerplate to not start your next [React](https://reactjs.org/) project from 
 - [Storybook](https://storybook.js.org/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
-- [Husky](https://github.com/typicode/husky)
+- [Husky](https://typicode.github.io/husky/)
 
 ## How to use
 
