@@ -38,6 +38,8 @@
     "@babel/core": "^7.15.8",
     "@babel/preset-typescript": "^7.15.0",
     "@storybook/addon-essentials": "^6.4.9",
+    "@storybook/builder-webpack5": "^6.4.9",
+    "@storybook/manager-webpack5": "^6.4.9",
     "@storybook/react": "^6.4.9",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.1.2",
@@ -68,6 +70,7 @@
     "storybook-addon-next-router": "^3.0.8",
     "tailwindcss": "^2.2.4",
     "twin.macro": "^2.6.2",
-    "typescript": "^4.4.3"
+    "typescript": "^4.4.3",
+    "webpack": "5"
   }
 }
